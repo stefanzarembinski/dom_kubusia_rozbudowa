@@ -5,3 +5,5 @@ cad/*.bak
 cad/fundament_prymitywny.bmp
 cad/save.ac$
 **.~lock.*
+**.bk*
+**.bak*
